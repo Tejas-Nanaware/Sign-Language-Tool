@@ -1,5 +1,5 @@
 # Sign-Language-Tool
-# Introsuction
+# Introduction
 This project helps the disabled people to understand alphabetical input and turns it into an animated sign language (Birtish Sign Language)
 It also has image processing feeds that will help in translating sign language into English alphabets.
 
