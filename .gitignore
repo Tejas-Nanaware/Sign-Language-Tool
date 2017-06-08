@@ -1,5 +1,7 @@
 .vs
-test.py
+test*
 module1.py
 out.avi
 watchgray.jpg
+*.avi
+*.sln
