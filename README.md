@@ -16,6 +16,5 @@ You can also use pip to install OpenCV, MatPlotLib and Numpy.
 Simply follow these instructions.
 ├── pip install numpy
 ├── pip install matplotlib
-├── pip install urllib (If you want to create your own Haar Cascade)
 └── pip install opencv-python
 ```
