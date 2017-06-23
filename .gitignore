@@ -1,2 +1,4 @@
-models/Haar Cascade Training/A/neg
+models/Haar Cascade Training/*/neg/
+models/Haar Cascade Training/*/info/
+models/Haar Cascade Training/*/opencv/
 *.avi
