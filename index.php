@@ -5,6 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<title>Sign Language Tool</title>
+		<!--Custom CSS-->
+		<link rel="stylesheet" href="css/index.css">
 	</head>
 	<body>
 		<?php
