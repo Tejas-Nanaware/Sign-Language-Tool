@@ -19,3 +19,8 @@ Simply follow these instructions.
 ├── pip install matplotlib
 └── pip install opencv-python
 ```
+4. Linux users can also run the Linux_Installation.sh.  
+Please note this installation requires **sudo permissions**
+
+>Those who wish to train haar cascades can visit My Drive [Link](https://drive.google.com/drive/folders/0Bw0n8xghCUhoN1ZEM0Y3bVF0ZjA?usp=sharing) to get the negative samples.  
+>There is a Bash file in folder "A" that has the commands to run the training process.
