@@ -13,7 +13,8 @@
 	margin-left: 12.5%;
 	margin-right: 12.5%;
 }
-.accordion {
-  position: absolute;
-  margin-top: 80%;
-}
+#buttonGroup.container {
+    text-align: center !important;
+    padding-top: 1% !important;
+    padding-bottom: 1% !important;
+}	

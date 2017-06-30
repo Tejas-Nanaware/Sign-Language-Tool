@@ -18,8 +18,8 @@
 		<div class="sketchfab">
 			<iframe class="myframe" src="" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 		</div>
-		<!--Accordion-->
-		<div class="container">
+
+		<div id="buttonGroup" class="container">
 			<div class="btn-group">
 				<a href="#" class="btn btn-default" role="button" data-url="5c84c18e3d574805b2a04bb0c80ef4bc/embed">A</a>
 				<a href="#" class="btn btn-default" role="button" data-url="3714a54a51f9400192b89adae7fc608a/embed">B</a>
