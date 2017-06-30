@@ -54,7 +54,7 @@ section.module.parallax-1 {
   background-size: cover;
 }
 section.module.parallax-2 {
-  background-image: url("http://www.deaftravel.co.uk/images/signs/India_SL.jpg");
+  background-image: url("../models/web_parallax2.jpg");
   width: 100%;
   height: 80%;
   /*background-attachment: fixed;*/
@@ -63,7 +63,7 @@ section.module.parallax-2 {
   background-size: cover;
 }
 section.module.parallax-3 {
-  background-image: url("https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAL8AAAAJGIyNzJhNjA1LTY2NDMtNDc3ZS1iMjY0LTdlYjQ0M2JjYWM4YQ.jpg");
+  background-image: url("../models/web_parallax3.png");
   width: 100%;
   height: 80%;
   /*background-attachment: fixed;*/
