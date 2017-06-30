@@ -1,3 +1,6 @@
+<?php
+	$current = basename($_SERVER['PHP_SELF']);
+?>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -26,10 +29,10 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="trytool.php">Try The Tool</a></li>
-					<li><a href="about.php">About Us</a></li>
-					<li><a href="contact.php">Contact Us</a></li>
+					<li <?php if($current == 'index.php') {echo 'class="active"';} ?>><a href="index.php">Home</a></li>
+					<li <?php if($current == 'trytool.php') {echo 'class="active"';} ?>><a href="trytool.php">Try The Tool</a></li>
+					<li <?php if($current == 'about.php') {echo 'class="active"';} ?>><a href="about.php">About Us</a></li>
+					<li <?php if($current == 'contact.php') {echo 'class="active"';} ?>><a href="contact.php">Contact Us</a></li>
 				</ul>
 				</div>
 			</div>
