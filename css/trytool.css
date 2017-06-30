@@ -15,7 +15,8 @@
 	margin-right: 12.5%;
 }
 #buttonGroup.container {
+	margin: auto;
     text-align: center !important;
-    padding-top: 1% !important;
+    padding-top: 5% !important;
     padding-bottom: 1% !important;
 }	

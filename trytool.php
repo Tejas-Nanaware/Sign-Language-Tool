@@ -16,7 +16,7 @@
 			require "nav.php";
 		 ?>
 		<div class="sketchfab">
-			<iframe class="myframe" src="http://www.peopleofar.com/wp-content/uploads/JNTU-EXPRESS-Welcome.jpg" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+			<iframe class="myframe" src="models/1.jpg" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 		</div>
 
 		<div id="buttonGroup" class="container">
