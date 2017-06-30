@@ -1,11 +1,6 @@
 body, html {
     height: 100%;
 }
-nav.navbar.navbar-inverse {
-    border-bottom: 0px !important;
-    margin-bottom: 0px !important;
-}
-
 /* ============================================================
   PRIMARY STRUCTURE
 ============================================================ */

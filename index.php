@@ -57,6 +57,9 @@
 				<p>Below there will be a settings icon that will help in changing the animation speed. <a href="trytool.php" class="btn btn-success" role="button">Try It!</a></p>
 			</div>
 		</section>
+		<?php
+			require "footer.php";
+		 ?>
 		<script>
 			(function(){
 				var parallax = document.querySelectorAll(".parallax"),
