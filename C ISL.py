@@ -18,7 +18,7 @@ while True:
 	#converting to gray
 	gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 	# detect A
-	A = A_cascade.detectMultiScale(gray)
+	A = A_cascade.detectMultiScale(gray,10,1)
 
 	# To display A
 	for (x,y,w,h) in A:
