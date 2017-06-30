@@ -20,11 +20,34 @@
 		</div>
 		<!--Accordion-->
 		<div class="container">
-			<a href=# data-url="5c84c18e3d574805b2a04bb0c80ef4bc/embed">A</a>
-			<a href=# data-url="3714a54a51f9400192b89adae7fc608a/embed">B</a>
-			<a href=# data-url="">C</a>
-			<a href=# data-url="">D</a>
-			<a href=# data-url="84f6851afd3f452eb0590890aca6229e/embed">E</a>
+			<div class="btn-group">
+				<a href="#" class="btn btn-default" role="button" data-url="5c84c18e3d574805b2a04bb0c80ef4bc/embed">A</a>
+				<a href="#" class="btn btn-default" role="button" data-url="3714a54a51f9400192b89adae7fc608a/embed">B</a>
+				<a href="#" class="btn btn-default" role="button">C</a>
+				<a href="#" class="btn btn-default" role="button">D</a>
+				<a href="#" class="btn btn-default" role="button" data-url="84f6851afd3f452eb0590890aca6229e/embed">E</a>
+				<a href="#" class="btn btn-default" role="button">F</a>
+				<a href="#" class="btn btn-default" role="button">G</a>
+				<a href="#" class="btn btn-default" role="button">H</a>
+				<a href="#" class="btn btn-default" role="button">I</a>
+				<a href="#" class="btn btn-default" role="button">J</a>
+				<a href="#" class="btn btn-default" role="button">K</a>
+				<a href="#" class="btn btn-default" role="button">L</a>
+				<a href="#" class="btn btn-default" role="button">M</a>
+				<a href="#" class="btn btn-default" role="button">N</a>
+				<a href="#" class="btn btn-default" role="button">O</a>
+				<a href="#" class="btn btn-default" role="button">P</a>
+				<a href="#" class="btn btn-default" role="button">Q</a>
+				<a href="#" class="btn btn-default" role="button">R</a>
+				<a href="#" class="btn btn-default" role="button">S</a>
+				<a href="#" class="btn btn-default" role="button">T</a>
+				<a href="#" class="btn btn-default" role="button">U</a>
+				<a href="#" class="btn btn-default" role="button">V</a>
+				<a href="#" class="btn btn-default" role="button">W</a>
+				<a href="#" class="btn btn-default" role="button">X</a>
+				<a href="#" class="btn btn-default" role="button">Y</a>
+				<a href="#" class="btn btn-default" role="button">Z</a>
+			</div>
 		</div>
 		<script>
 			$(function() {
