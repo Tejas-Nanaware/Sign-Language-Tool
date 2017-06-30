@@ -16,16 +16,25 @@
 			require "nav.php";
 		 ?>
 		<div class="sketchfab">
-			<iframe class="myframe" src="https://sketchfab.com/models/81bca78ab3ef432d8c915ff1b431ea73/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+			<iframe class="myframe" src="" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 		</div>
 		<!--Accordion-->
 		<div class="container">
-			<a href=#>A</a>
-			<a href=#>B</a>
-			<a href=#>C</a>
-			<a href=#>D</a>
+			<a href=# data-url="5c84c18e3d574805b2a04bb0c80ef4bc/embed">A</a>
+			<a href=# data-url="3714a54a51f9400192b89adae7fc608a/embed">B</a>
+			<a href=# data-url="">C</a>
+			<a href=# data-url="">D</a>
+			<a href=# data-url="84f6851afd3f452eb0590890aca6229e/embed">E</a>
 		</div>
-
+		<script>
+			$(function() {
+				$('a').click(function() {
+  					var _this = $(this),
+					iframe = $('iframe');
+					iframe.attr('src','https://sketchfab.com/models/' + _this.attr('data-url'));
+  				});
+			});
+		</script>
 	<!--JQuery JS-->
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<!--Tether JS-->
