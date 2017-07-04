@@ -2,6 +2,7 @@
 	position: relative;
 	width: 80%;
 	height: 80%;
+	top: 50px;
 	padding-bottom: 30%;
 }
 .myframe {
@@ -13,7 +14,9 @@
 	margin-left: 12.5%;
 	margin-right: 12.5%;
 }
-.accordion {
-  position: absolute;
-  margin-top: 80%;
-}
+#buttonGroup.container {
+	margin: auto;
+    text-align: center !important;
+    padding-top: 5% !important;
+    padding-bottom: 1% !important;
+}	

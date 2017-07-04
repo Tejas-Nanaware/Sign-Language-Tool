@@ -4,7 +4,7 @@ import numpy as np
 # Get the cascade classifer
 # Cascade Credits Tejas Nanaware
 # Note the gestures are trained upto 15 stages and minimum 10 stages
-A_cascade = cv2.CascadeClassifier('models\Haar Cascade Training\A\data\cascade.xml')
+A_cascade = cv2.CascadeClassifier('models\Haar Cascade Training\B\data\cascade.xml')
 
 cap = cv2.VideoCapture(0)
 
@@ -24,7 +24,7 @@ while True:
 	for (x,y,w,h) in A:
 		cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
 		font = cv2.FONT_HERSHEY_SIMPLEX
-		cv2.putText(img,'A',(x,y+h), font, 4, (0,0,255), 3, cv2.LINE_AA)
+		cv2.putText(img,'B',(x,y+h), font, 4, (0,0,255), 3, cv2.LINE_AA)
 
 	# To record the video
 	# out.write(img)		
