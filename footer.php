@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/footer.css">
-<footer>
-	<div class="container" id="bottom">
-		<p style="display:inline-block;">&copy; Sign Language Tool</p>
+<footer class="footer">
+	<div class="container">
+		<p class="text-muted" style="display:inline-block; padding-left:2%;">&copy; Sign Language Tool</p>
 	</div>
 </footer>
