@@ -1,8 +1,19 @@
 <h1 align = 'center'>Sign Language Tool</h1>
 
 ## Introduction
-This project helps the disabled people to understand alphabetical input and turns it into an animated sign language (Birtish Sign Language)
-It also has image processing feeds that will help in translating sign language into English alphabets.
+This project helps the disabled people to understand alphabetical input and turns it into an animated sign language (Indian Sign Language)
+It also has image processing feeds that will help in translating sign language into English alphabets. The project comprises of three modules: **_Learn, Practice and Test_**. These Modules will help you in learning the basics of the Indian Sign Language.  
+
+You can view the [_Project Report_](http://ekalavya.it.iitb.ac.in/summerinternship2017/nologin_download.html?fileName=Gesture_Based_App_for_Sign_Language.pdf&fileType=report) and the [_Project Presentation_](http://ekalavya.it.iitb.ac.in/summerinternship2017/nologin_download.html?fileName=Gesture_Based_App_for_Sign_Language.pptx&fileType=presentation), IIT Bombay Summer Internship Eklavya 2017.
+
+#### The Learn Module
+Learn Module helps you to learn the Sign Language Alphabet Gestures. This can be accessed in two ways:
+  1. Windows App (Zip file in models).
+  2. Web App ([Link](http://fingerspelling.herokuapp.com)).
+
+#### The Practice & Test Modules
+These modules help you to test the gestures that you have performed using the webcam interface. You will need to install Python and Python packages that are mentioned further.  
+To run, simply execute the python file of the required alphabet.
 
 ## Tech Stack
 The animations are done using Blender & Blender Game Engine.
