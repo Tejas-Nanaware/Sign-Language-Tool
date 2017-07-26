@@ -12,7 +12,7 @@ Learn Module helps you to learn the Sign Language Alphabet Gestures. This can be
   2. Web App ([Link](http://fingerspelling.herokuapp.com)).
 
 #### The Practice & Test Modules
-These modules help you to test the gestures that you have performed using the webcam interface. You will need to install Python and Python packages that are mentioned further.  
+These modules help you to test the gestures that you have performed using the webcam interface. You will need to install Python and Python packages that are mentioned [further](#installations).  
 To run, simply execute the python file of the required alphabet.
 
 ## Tech Stack
